@@ -1,0 +1,16 @@
+Bubble Popper
+
+Concept 
+Bubbles spawn randomly on screen and float around.
+Player clicks bubbles to pop them. Earn points for bubbles popped.
+
+Goals
+Simple
+Satisfying
+Learn Unity UI
+
+Possible Expansions
+Bubble sizes
+Combos
+Particle effects
+Idle elements
